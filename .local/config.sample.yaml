@@ -1,0 +1,8 @@
+server:
+  port: 3000
+  domain: localhost
+
+supabase:
+  url: https://SUPAPROJECT.supabase.co
+  key: SUPABASEKEY
+  db_url: user=postgres password=SUPABASEDBPASS host=db.SUPAPROJECT.supabase.co port=5432 dbname=postgres
